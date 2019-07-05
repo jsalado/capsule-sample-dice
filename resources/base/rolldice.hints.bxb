@@ -1,0 +1,7 @@
+hints {
+  uncategorized {
+    utterance (roll some dice)
+    utterance (I want to roll 3 dice)
+    utterance (roll 4 4-faced dice)
+  }
+}

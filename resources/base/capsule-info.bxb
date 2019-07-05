@@ -1,0 +1,12 @@
+capsule-info {
+  display-name (Dice)
+  developer-name (Samsung SSR)
+  dispatch-name (dice)
+  icon-asset (dice.png)
+  description ("Simple sample capsule to roll multiple dice with multiple faces")
+  search-keywords {
+    keyword(dice)
+  }
+  website-url (https://example.com/)
+  terms-url (https://example.com/terms-of-use/)
+}
